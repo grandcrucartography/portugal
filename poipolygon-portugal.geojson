@@ -1,6 +1,6 @@
 {
 "type": "FeatureCollection",
-"name": "poipolygon-portugal",
+"name": "poipolygon",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
 { "type": "Feature", "properties": { "Producer": "Pormenor", "Lieu Dit": null, "Desc": "Pormenor Vinhos was established in the Douro Valley as the dream of three friends – José Silva, Miguel Cardozo, and Pedro Coelho. Pormenor, which means “details” in English was launched with the 2013 vintage. With vines ranging from 40 to 95 years old planted at high altitudes, Pormenor aims to produce wines with moderate alcohol, freshness, and elegance.
